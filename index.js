@@ -1,1 +1,1 @@
-console.log("other file1");
+console.log("index.js");
